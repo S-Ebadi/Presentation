@@ -38,5 +38,4 @@ If your project uses git:
 ---
 
 **Tip:**
-- Always double-check the file path before deleting.
-- You can use Copilot to help with any of these steps by asking for the exact command or guidance.
+- Try to smile. Your worst attempt trying might and up having you dead out laughing.  
