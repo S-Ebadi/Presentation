@@ -6,8 +6,7 @@ This guide explains how to use GitHub Copilot (or similar AI assistants) to loca
 
 ## 1. Locate the File with Copilot
 - Ask Copilot to help you find the file you want to delete.
-- Example prompt: `Show me where the file readme_presentation_av_said.md is located.`
-- Copilot will provide the file path, e.g. `/Users/yourname/project/readme_presentation_av_said.md`.
+- Example prompt: `Show me where the file repository is located.`
 
 ## 2. Delete the File in Terminal
 - Open your terminal.
@@ -17,7 +16,7 @@ This guide explains how to use GitHub Copilot (or similar AI assistants) to loca
   ```
 - Delete the file using:
   ```bash
-  rm readme_presentation_av_said.md
+  rm filename
   ```
 
 ## 3. (Optional) Remove from Git and Push Changes
@@ -28,7 +27,7 @@ If your project uses git:
   ```
 - Commit the change:
   ```bash
-  git commit -m "Remove readme_presentation_av_said.md from repository"
+  git commit -m "Remove_repository name"
   ```
 - Push to GitHub:
   ```bash
@@ -38,4 +37,4 @@ If your project uses git:
 ---
 
 **Tip:**
-- Try to smile. Your worst attempt trying might and up having you dead out laughing.  
+- Try to smile. Your worst attempt trying might and up having you dead out laughing. Not so hard anymore ha?  
